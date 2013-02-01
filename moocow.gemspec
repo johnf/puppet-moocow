@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Moocow::VERSION
   gem.authors       = ["John Ferlito"]
   gem.email         = ["johnf@inodes.org"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Test puppet module}
+  gem.summary       = %q{Creates a moodate in /tmp}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
